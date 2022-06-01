@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ant.design">
+  <a href="https://antblazor.com">
     <img width="100" src="https://raw.githubusercontent.com/ant-design-blazor/ant-design-blazor/master/logo.svg">
   </a>
 </p>
