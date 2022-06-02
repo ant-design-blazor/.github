@@ -1,4 +1,6 @@
-<p align="center">
+# Ant Design Blazor Community
+
+<!-- <p align="center">
   <a href="https://antblazor.com">
     <img width="100" src="https://raw.githubusercontent.com/ant-design-blazor/ant-design-blazor/master/logo.svg">
   </a>
@@ -6,7 +8,7 @@
 
 <h1 align="center">Ant Design Blazor</h1>
 <p align="center">A rich set of enterprise-class UI components based on Ant Design and Blazor.</p>
-
+ -->
 ### 📎Links
 
 - 👉 [Ant Design Blazor official site](https://antblazor.com)
