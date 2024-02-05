@@ -1,5 +1,6 @@
 # Ant Design Blazor Community
 
+### Open, beautiful, flexible and efficient
 <!-- <p align="center">
   <a href="https://antblazor.com">
     <img width="100" src="https://raw.githubusercontent.com/ant-design-blazor/ant-design-blazor/master/logo.svg">
