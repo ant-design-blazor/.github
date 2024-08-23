@@ -1,15 +1,13 @@
-# Ant Design Blazor Community
 
-### Open, beautiful, flexible and efficient
-<!-- <p align="center">
-  <a href="https://antblazor.com">
-    <img width="100" src="https://raw.githubusercontent.com/ant-design-blazor/ant-design-blazor/master/logo.svg">
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/ant-design-blazor/ant-design-blazor/master/logo.svg" alt="Ant Design Blazor logo" height="200px" align="right" />
 
-<h1 align="center">Ant Design Blazor</h1>
-<p align="center">A rich set of enterprise-class UI components based on Ant Design and Blazor.</p>
- -->
+[Ant Design Blazor](https://github.com/ant-design-blazor) is a collaborative effort of developers from all over the world, and is one of the most popular Blazor open source component libraries.
+
+Since 2020, Blazor Technology open source community has been established to lead global .NET developers to the road of full-stack Web development!
+
+We promote international open source collaboration, welcome all new ideas, and all the contributions we can make!
+
+
 ### 📎Links
 
 - 👉 [Ant Design Blazor official site](https://antblazor.com)
